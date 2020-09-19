@@ -1,0 +1,13 @@
+#ord compare
+a=input("Enter string a:")
+b=input("Enter string b:")
+c=input("Enter string c:")
+print(a)
+print(b)
+print(c)
+print(ord("a")==ord("b"))
+print(ord("a")==ord("c"))
+print(a==b)
+print(a==c)
+print("hello"=="Hello")
+print("hello"=="hello")
